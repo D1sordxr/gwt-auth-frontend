@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gwt-auth-frontend/static/css/main.00883b6b.css",
+    "main.js": "/gwt-auth-frontend/static/js/main.7e02b01c.js",
+    "static/js/453.a43b7719.chunk.js": "/gwt-auth-frontend/static/js/453.a43b7719.chunk.js",
+    "index.html": "/gwt-auth-frontend/index.html",
+    "main.00883b6b.css.map": "/gwt-auth-frontend/static/css/main.00883b6b.css.map",
+    "main.7e02b01c.js.map": "/gwt-auth-frontend/static/js/main.7e02b01c.js.map",
+    "453.a43b7719.chunk.js.map": "/gwt-auth-frontend/static/js/453.a43b7719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00883b6b.css",
+    "static/js/main.7e02b01c.js"
+  ]
+}
